@@ -6,8 +6,7 @@
 
 #### Stack:
  - Database <br>
-<img src="https://img.shields.io/badge/postgresql-DarkSlateGrey?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/sqlite-DarkSlateGrey?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/postgresql-DarkSlateGrey?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/sqlite-DarkSlateGrey?style=for-the-badge&logo=sqlite&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLAlchemy-DarkSlateGrey?style=for-the-badge&logo=SQLAlchemy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Clickhouse-DarkSlateGrey?style=for-the-badge&logo=Clickhouse&logoColor=white"/>
 
