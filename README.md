@@ -1,4 +1,6 @@
-<h1> Python Developer
+# Python Developer
+ Hi 👋 <br>
+ I am constantly improving my development skills. I adore sports and nature, and I am actively learning English. If you have something interesting to discuss, feel free to let me know 😉
 
 #### Frameworks:
 <img src="https://img.shields.io/badge/django-4682B4?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/FastAPI-4682B4?style=for-the-badge&logo=FastAPI&logoColor=white"> 
