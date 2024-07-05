@@ -20,24 +20,31 @@
 ##### Projects:
 
 - [Bicycle rent] (Backend for the application for renting bicycles.)
+  <br>_Status: In progress... _
   <br>_Python, Django, DRF, JWT, PostgreSQL, PyTest, Poetry, nginx, Docker, Docker-compose, Яндекс.Облако, Celery, CI/CD_
 
 - [FastAPI microshop] (Backend for a small store on FastAPI)
+  <br>_Status: In progress... _
   <br>_Python, FastAPI, SQLAlchemy, alembic, pydantic, PostgreSQL, JWT, Cookie_
 
 - [Clickhouse optimization] (Test task to optimize SQL query for Clickhouse)
+  <br>_Status: Finished_
   <br>_Python, Clickhouse, Clickhouse-driver  Docker, Docker-compose, Faker_
 
 - [Lesta-games test] (Test task for calculating TF-IDF)
+  <br>_Status: Finished_
   <br>_Python, Django, HTML, CSS flake8, python-docx, python-dotenv_
 
 - [Site women] (Website about famous women)
+  <br>_Status: Finished_
   <br>_Django, SQLite3, HTML, CSS_
 
 - [Small app] (A small application on FastAPI)
+  <br>_Status: Finished_
   <br>_Python, FastAPI, pip-tools, SQLAlchemy, alembic, pydantic_
 
 - [Little games] (My first app. Five little games on python)
+  <br>_Status: Finished_
   <br>_Python, Poetry, Makefile_
 
 ---
