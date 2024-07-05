@@ -1,8 +1,30 @@
 # Python Developer
 
-#### Frameworks | Django | FastAPI |
+#### Frameworks:
+<img src="https://img.shields.io/badge/django-DimGray?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-DimGray?style=for-the-badge&logo=FastAPI&logoColor=white"/>
 
-#### Stack | DRF, SQLAlchemy, Pydantic, PostrgeSQL, Clickhouse, Redis, Docker, Poetry,  Git |
+#### Stack:
+ - Database <br>
+<img src="https://img.shields.io/badge/postgresql-DarkSlateGrey?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/sqlite-DarkSlateGrey?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-DarkSlateGrey?style=for-the-badge&logo=SQLAlchemy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Clickhouse-DarkSlateGrey?style=for-the-badge&logo=Clickhouse&logoColor=white"/>
+
+- Other<br>
+<img src="https://img.shields.io/badge/DRF-black?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pydantic-black?style=for-the-badge&logo=Pydantic&logoColor=white"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThZpFJoww_XrzcCUcFi0bsf51V9e4Rx668xQ&s" style="width:62px;">
+<img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=Docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Poetry-black?style=for-the-badge&logo=Poetry&logoColor=white"/>
+<img src="https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Poetry-black?style=for-the-badge&logo=Poetry&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git&logoColor=white"/>
+<img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white"/>
+
+
+
 
 ##### Projects:
 
