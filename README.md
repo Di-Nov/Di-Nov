@@ -1,14 +1,15 @@
 # Python Developer
 
 #### Frameworks:
-<img src="https://img.shields.io/badge/django-DimGray?style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-DimGray?style=for-the-badge&logo=FastAPI&logoColor=white"/>
+<img src="https://img.shields.io/badge/django-blue?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-blue?style=for-the-badge&logo=FastAPI&logoColor=white"/>
 
 #### Stack:
  - Database <br>
-<img src="https://img.shields.io/badge/postgresql-DarkSlateGrey?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/sqlite-DarkSlateGrey?style=for-the-badge&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLAlchemy-DarkSlateGrey?style=for-the-badge&logo=SQLAlchemy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Clickhouse-DarkSlateGrey?style=for-the-badge&logo=Clickhouse&logoColor=white"/>
+<img src="https://img.shields.io/badge/postgresql-red?style=for-the-badge&logo=postgresql&logoColor=white" alt=""/> 
+<img src="https://img.shields.io/badge/sqlite-red?style=for-the-badge&logo=sqlite&logoColor=white" alt=""/> 
+<img src="https://img.shields.io/badge/SQLAlchemy-red?style=for-the-badge&logo=SQLAlchemy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Clickhouse-red?style=for-the-badge&logo=Clickhouse&logoColor=white"/>
 
 - Other<br>
 <img src="https://img.shields.io/badge/DRF-black?style=for-the-badge&logo=django&logoColor=white"/>
