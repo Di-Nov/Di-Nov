@@ -8,8 +8,8 @@
  - Database <br>
 <img src="https://img.shields.io/badge/postgresql-red?style=for-the-badge&logo=postgresql&logoColor=white" alt=""/> 
 <img src="https://img.shields.io/badge/sqlite-red?style=for-the-badge&logo=sqlite&logoColor=white" alt=""/> 
-<img src="https://img.shields.io/badge/SQLAlchemy-red?style=for-the-badge&logo=SQLAlchemy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Clickhouse-red?style=for-the-badge&logo=Clickhouse&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-red?style=for-the-badge&logo=SQLAlchemy&logoColor=white" alt=""/> 
+<img src="https://img.shields.io/badge/Clickhouse-red?style=for-the-badge&logo=Clickhouse&logoColor=white" alt=""/> 
 
 - Other<br>
 <img src="https://img.shields.io/badge/DRF-black?style=for-the-badge&logo=django&logoColor=white"/>
