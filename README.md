@@ -65,7 +65,7 @@
 
 [//]: #
 
-[Bicycle rent]: <https://github.com/Di-Nov/bicycle_rent>
+[Bicycle rent]: <https://github.com/Di-Nov/bicycle_rent/tree/develop>
 
 [FastAPI microshop]: <https://github.com/Di-Nov/FastAPI_microshop>
 
