@@ -21,13 +21,17 @@
 
 ##### Projects:
 
+- [bitrix24_google-API] (Automation of data exchange between Bitrix24 and Google Sheets using the API.)
+  <br>_Status: Finished_
+  <br>_Stack: Python, Pydantic, Poetry, Bitrix24 API, Google Sheets API_
+
 - [Bicycle rent] (Backend for the application for renting bicycles.)
   <br>_Status: In progress..._
-  <br>_Stack: Python, Django, DRF, JWT, PostgreSQL, PyTest, Poetry, nginx, Docker, Docker-compose, Яндекс.Облако, Celery, CI/CD_
+  <br>_Stack: Python, Django, DRF, JWT, PostgreSQL, PyTest, Poetry, Nginx, Docker, Docker-compose, Яндекс.Облако, Celery, CI/CD_
 
 - [FastAPI microshop] (Backend for a small store on FastAPI)
   <br>_Status: In progress..._
-  <br>_Stack: Python, FastAPI, SQLAlchemy, alembic, pydantic, PostgreSQL, JWT, Cookie_
+  <br>_Stack: Python, FastAPI, SQLAlchemy, Alembic, Pydantic, PostgreSQL, JWT, Cookie_
 
 - [Clickhouse optimization] (Test task to optimize SQL query for Clickhouse)
   <br>_Status: Finished_
@@ -62,8 +66,9 @@
   </div>
 </div>
 
-
 [//]: #
+
+[bitrix24_google-API]: <https://github.com/Di-Nov/bitrix24_google-API->
 
 [Bicycle rent]: <https://github.com/Di-Nov/bicycle_rent/tree/develop>
 
@@ -74,6 +79,8 @@
 [Lesta-games test]: <https://github.com/Di-Nov/lesta_games_test>
 
 [Site women]: <https://github.com/Di-Nov/django_site_women>
+
+
 
 [Small app]: <https://github.com/Di-Nov/FastAPI_test>
 
